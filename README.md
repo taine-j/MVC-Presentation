@@ -1,9 +1,9 @@
 # Model, View, Controller 
-A presentation I created on the model, view, controller programming architecture. 
+A detailed presentation I developed on the MVC architectural pattern used in software development.
 
 ## Lessons Learned:
 
-By creating this presentation I gained a deeper understanding on MVC programming architecture. This has allowed me to write more organised and maintainable code across all my projects.
+Crafting this presentation deepened my comprehension of the MVC architecture, enhancing my ability to produce code that is not only more structured but also easier to maintain across various projects.
 
 ![gif](./mvcDemo.gif)
 
